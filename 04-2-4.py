@@ -2,9 +2,15 @@ numbers = [1,2,6,8,4,3,2,1,9,5,4,9,7,2,1,3,5,4,8,9,7,2,3]
 counter = {}
 
 for number in numbers:
-  value = counter.get(number)
-  if( value != None):
-    counter[number] = value + 1
+  # value = counter.get(number)
+  # if( value != None):
+  #   counter[number] = value + 1
+  # else:
+  #   counter[number] = 1
+
+# list에 값이 있으면 +1, 없으면 1로 추가
+  if number in counter:
+    counter[number] = counter[number] + 1
   else:
     counter[number] = 1
 

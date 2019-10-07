@@ -16,7 +16,6 @@ Python Extension 설치
 * Linting, Debugging(multi-threaded, remote), ... Microsoft
 
 #### Git
-gitignore 설정
 
 #### markdown
 

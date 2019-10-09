@@ -45,5 +45,6 @@ git의 버전관리 개념으로 서비스를 만든 것이 gitHub 이다
 * gitHub flow - 소스 수정 절차
 
 GitHub 참고
+* 깃헙 소개 동영상[한글자막] - https://youtu.be/w3jLJU7DT5E
 * [깃허브 사용법] - https://blog.naver.com/whdtjd419/221424826718
 
